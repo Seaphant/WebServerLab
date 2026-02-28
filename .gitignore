@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Screenshots (generated, optional to include)
+# screenshot_*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Playwright
+.playwright/
+playwright-report/
+test-results/
+
+# Temp files
+terminal_output.txt
+*.log
